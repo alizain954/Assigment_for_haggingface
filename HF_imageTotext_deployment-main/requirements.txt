@@ -1,0 +1,7 @@
+gradio
+streamlit
+transformers
+pillow
+requests
+torch
+tensorflow
